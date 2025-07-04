@@ -222,7 +222,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 Herhangi bir sorunuz varsa:
 - GitHub Issues bölümünden bildirin
-- E-posta: [your-email@example.com]
+- E-posta: [mail@bloknit.com]
 
 ## Gelecek Özellikler
 
